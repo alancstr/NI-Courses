@@ -1,0 +1,6 @@
+Grand Total	381
+Coca Cola	17
+Pepsi	28
+M5	32
+M2	57
+M1	107

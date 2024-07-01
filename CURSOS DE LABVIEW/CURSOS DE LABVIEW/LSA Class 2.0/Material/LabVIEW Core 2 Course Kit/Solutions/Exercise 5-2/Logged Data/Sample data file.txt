@@ -1,0 +1,1 @@
+Acquired Data Jun-06-yy Time 1523.txt is a sample data file for the auto-populating Logged Data folder.
